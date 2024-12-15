@@ -6,5 +6,5 @@ https://lifelab.cc/2024/12/14/hello-world/
 https://lifelab.cc/2024/12/14/%E8%AF%81%E4%B9%A6%E6%9B%B4%E6%96%B0/
 https://lifelab.cc/
 https://lifelab.cc/tags/%E8%AF%81%E4%B9%A6/
-https://lifelab.cc/tags/openssl/
-https://lifelab.cc/categories/web%E5%89%8D%E7%AB%AF/
+https://lifelab.cc/tags/OpenSSL/
+https://lifelab.cc/categories/WEB%E5%89%8D%E7%AB%AF/
