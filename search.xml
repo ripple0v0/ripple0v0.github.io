@@ -19,6 +19,16 @@
 ]]></content>
   </entry>
   <entry>
+    <title>通过openssl将cer证书转换为pfx证书</title>
+    <url>/2024/12/15/%E9%80%9A%E8%BF%87openssl%E5%B0%86cer%E8%AF%81%E4%B9%A6%E8%BD%AC%E6%8D%A2%E4%B8%BApfx%E8%AF%81%E4%B9%A6/</url>
+    <content><![CDATA[<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">openssl pkcs12 -<span class="built_in">export</span> -out domain.pfx -inkey domain.key -<span class="keyword">in</span> domain.cer</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>证书,openssl</tag>
+      </tags>
+  </entry>
+  <entry>
     <title></title>
     <url>/2024/12/14/%E8%AF%81%E4%B9%A6%E6%9B%B4%E6%96%B0/</url>
     <content><![CDATA[<p><code>openssl pkcs12 -export -out nas.damaskeen.space.pfx -inkey nas.damaskeen.space.key -in nas.damaskeen.space.cer</code></p>
